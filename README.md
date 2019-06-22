@@ -5,7 +5,7 @@ included.</p>
 <p>With this REST API you can: </p>
 <ul>
   <li>Create new data</li>
-  <li>Read data</li>
+  <li>Read all data</li>
   <li>Read one data</li>
   <li>Update data</li>
   <li>Delete data</li>
